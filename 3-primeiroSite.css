@@ -1,0 +1,381 @@
+.corpo{
+    font-family: 'Contrail One', cursive;
+}
+
+.cabeçalho {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+
+}
+.logo{
+   
+    width: 350px;
+    padding: 10px;
+    
+}
+.lista-cabeçalho{
+  font-size:30px ;
+  margin-bottom: 30px;
+
+}
+
+.item-lista{
+    text-decoration: none;
+    color: azure;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    transition: 0.6s;
+    
+}
+.item-lista:hover{
+    color:rgb(20, 132, 251);
+    font-size:31px ;
+    
+  
+}
+
+.intro{
+    margin-top: 90px;
+    margin-left: 50px;
+
+}
+
+.texto-1{
+
+    background: linear-gradient(to right, black,95%, rgb(20, 132, 251));
+    padding:10px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.texto-1 p{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.texto-1 strong{
+
+    font-size: 50px;
+}
+
+.container-1{
+    background: linear-gradient(to right, black,95%, rgb(20, 132, 251));
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+
+.texto-2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.sinfoniaBe{
+    background-color:gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transition: 0.9s;
+    padding: 15px;
+    
+
+}
+
+.sinfoniaBe:hover{
+    padding: 20px;
+
+}
+
+.título-filmes{
+    font-size: 40px; 
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+   
+}
+
+.texto-filme{
+   
+    padding: 10px;
+    font-size: 2S0px;
+    margin-left: 20px;
+
+}
+
+.image-sinfonia{
+    width: 350px;
+    margin-left:250px;
+}
+
+.robertoOrato{
+    background-color: red;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.robertoOrato:hover {
+
+    padding: 25px;
+}
+
+.image-roberto{
+
+    width: 250px;
+    margin-left: 200px;
+    
+}
+
+.astronauta{
+    background-color: gray;
+    margin-top: 15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.astronauta:hover{
+    padding: 25px;
+}
+
+.image-planeta{
+
+    width: 250px;
+}
+
+.paisDoFuturo{
+    background-color: rgb(0, 31, 167);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.paisDoFuturo:hover{
+
+    padding: 25px;
+}
+
+.image-pais{
+    width: 150px;
+    margin-left: 535px;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+.ThorVsMulherMaravilha{
+
+    background-color:rgb(124, 0, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.ThorVsMulherMaravilha:hover{
+    padding: 25px;
+}
+
+.image-Vs{
+
+    width: 200px;
+    margin-left: 350;
+    margin-right: 30;
+}
+
+.Batman{
+    background-color:rgb(0, 0, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.image-batman{
+
+    width: 200px;
+    margin-left: 265px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+
+#titulo-batman{
+
+    color: rgb(176, 0, 0);
+}
+
+#texto-batman{
+
+    color:  rgb(176, 0, 0);;
+}
+
+.Batman:hover{
+    padding: 25px;
+}
+
+.corridaJurassica{
+    background-color:rgb(8, 77, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.corridaJurassica:hover{
+    padding: 25px;
+}
+
+.image-jurassica{
+
+    width: 300px;
+    margin-left: 430px;
+}
+
+.bataAntesDeEntrar{
+    background-color:rgb(172, 0, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.image-terror{
+
+    width: 250px;
+    margin-left: 400px;
+}
+
+.bataAntesDeEntrar:hover{
+    padding: 25px;
+}
+
+.romance{
+    background-color:rgb(0, 0, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.image-romance{
+
+    width: 250px;
+    margin-left: 565px;
+
+}
+
+#texto-romance{
+
+    color: rgb(255, 89, 116);
+}
+
+.romance:hover{
+    padding: 25px;
+}
+
+.tanque{
+    background-color:rgb(249, 212, 6);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tanque:hover{
+    padding: 25px;
+}
+
+.image-tanque{
+
+    width: 300px;
+    margin-left: 380px;
+}
+
+.corridaJurassica2{
+    background-color:rgb(0, 0, 0);
+    margin-top:15px ;
+    margin-bottom: 5px;
+    transition: 0.9s;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.corridaJurassica2:hover{
+    padding: 25px;
+}
+
+.image-jurassicaII{
+
+    width: 300px;
+    margin-left: 400px;
+}
+
+#jurassica2{
+
+    color: rgb(255, 111, 0);
+}
+
+.rodapé{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    
+}
+
+.rodapé strong{
+
+   font-style: italic;
+}
+
+.rodapé p{
+
+    padding: 20px;
+    font-size: 12px;
+}
+
+.logo-footer{
+    width: 350px;
+    padding: 20px;
+   
+}
+
+/* Adaptação para o celular*/
+@media and (max width: 525){
+
+
+}

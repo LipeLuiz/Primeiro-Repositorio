@@ -1,0 +1,123 @@
+.cabeçalho{
+    display: flex;
+    flex-direction: column;
+}
+
+.lista-cabeçalho{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.image-pipoca{
+    width: 0px;
+}
+
+.sinfoniaBe{
+
+    flex-direction: column;
+   align-items: center;
+}
+
+.título-filmes{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+}
+
+.texto-filme{
+
+    margin-left: 0px;
+}
+
+.image-sinfonia{
+    margin-left: 
+    0px;
+}
+
+.robertoOrato{
+    flex-direction: column;
+}
+
+.image-roberto{
+    margin-left: 90px;
+    
+}
+
+.astronauta{
+    flex-direction: column;
+}
+
+.image-planeta{
+    margin-left: 90px;
+}
+
+.paisDoFuturo{
+    flex-direction: column;
+}
+
+.image-pais{
+    margin-left: 140px;
+}
+
+.ThorVsMulherMaravilha{
+    flex-direction: column;
+
+}
+
+.image-Vs{
+    margin-left: 108px;
+}
+
+.Batman{
+    flex-direction: column;
+   
+}
+
+.image-batman{
+  
+    margin-left: 90px;
+}
+
+.corridaJurassica{
+    flex-direction: column;
+}
+
+.image-jurassica{
+
+     margin-left: 50px;
+}
+
+.bataAntesDeEntrar{
+    flex-direction: column;
+}
+
+.image-terror{
+    margin-left: 100px;
+}
+
+.romance{
+    flex-direction: column;
+}
+
+.image-romance{
+    margin-left: 100px;
+}
+
+
+.tanque{
+    flex-direction: column;
+}
+
+
+.image-tanque{
+    margin-left: 50px;
+}
+
+.corridaJurassica2{
+    flex-direction: column;
+}
+
+.image-jurassicaII{
+    margin-left: 50px;
+}
